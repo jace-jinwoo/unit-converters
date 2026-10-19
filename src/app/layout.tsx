@@ -18,6 +18,7 @@ export const metadata: Metadata = {
     url: '/',
   },
   twitter: { card: 'summary', title: SITE_NAME, description: SITE_TAGLINE },
+  verification : { content : '1bHbH5-Aa-wk74CWkqUWQGRmZ6KMkvRetikjf8rLAnQ' } 
 };
 
 export const viewport: Viewport = {
